@@ -1,7 +1,8 @@
 module.exports = {
+  pathPrefix: '/web3-regular',
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "pages",
+    siteUrl: "https://goldsteinsveta.github.io/web3-regular/",
+    title: "web3-regular-docs",
   },
   plugins: [
     "gatsby-plugin-mdx",
