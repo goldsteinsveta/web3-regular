@@ -25,7 +25,7 @@ const Glyph = ({ glyph }) => {
         onClick={toClipboard(glyph)}
       >
         <div className={glyphItem}>{glyph}</div>
-        {glyph}
+        <h4>{glyph}</h4>
       </div>
       {isJustClipped &&
         <div className={clipNotification}>

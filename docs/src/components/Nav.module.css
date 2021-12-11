@@ -1,0 +1,15 @@
+.nav {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  padding: 0 55px;
+  background: #000;
+  color: white;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+}
+.logo {
+  margin-right: 16px;
+}
