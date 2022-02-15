@@ -12,10 +12,10 @@ const Nav = () => {
           Web3-Regular
         </b>
       </span>
-      <a className="button buttonText" target="_blank" href="https://github.com/goldsteinsveta/web3-regular/releases/tag/211210">
+      <a className="button buttonText" target="_blank" href="https://github.com/goldsteinsveta/web3-regular/tree/main/fonts">
         Download
       </a>
-      <a className="button buttonText" target="_blank" href="https://github.com/goldsteinsveta/web3-regular/releases/tag/211210">
+      <a className="button buttonText" target="_blank" href="https://github.com/goldsteinsveta/web3-regular">
         GitHub
       </a>
     </div>

@@ -8,13 +8,14 @@ const glyphsSets = [
   {
     title: "Networks",
     glyphs: [
-      "kusama",
       "polkadot",
+      "kusama",
+      "acala",
       "westend",
-      "substrate",
       "rococo",
       "kulupu",
       "statemine",
+      "substrate",
     ]
   },
   {
@@ -41,7 +42,7 @@ const IndexPage = () => (
     <p>
       Web3-Regular is a toy-project. It's a collection of logos and icons for things Web3 in <code>otf</code>, <code>woff</code> and <code>woff2</code> formats.
       <br/>
-      It's a personal everyday itch-scratcher and a playground to learn <a href="glyphsapp.com" target="_blank">Glyphs</a> font design software and what this hot <a href="https://www.gatsbyjs.com/">Gatsby</a> js framework is all about simultaneously.
+      It's a personal everyday itch-scratcher and a playground to learn <a href="https://glyphsapp.com/" target="_blank">Glyphs</a> font design software and what this hot <a href="https://www.gatsbyjs.com/" target="_blank">Gatsby</a> js framework is all about simultaneously.
       <br />
       _
       <br />
