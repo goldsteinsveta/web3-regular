@@ -607,6 +607,138 @@ note = z;
 unicode = 007A;
 },
 {
+glyphname = w_e_s_t_e_n_d.liga.001;
+lastChange = "2022-02-23 21:47:22 +0000";
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = "{220, 291}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{1433, 94}";
+type = Stem;
+},
+{
+horizontal = 1;
+place = "{2030, 246}";
+type = Stem;
+}
+);
+layerId = "29AA73EE-3EBA-4987-8E4A-FE5AF32623E4";
+paths = (
+{
+closed = 1;
+nodes = (
+"1640 1897 OFFCURVE",
+"1834 2009 OFFCURVE",
+"1834 2148 CURVE",
+"1834 2287 OFFCURVE",
+"1640 2400 OFFCURVE",
+"1401 2400 CURVE",
+"1162 2400 OFFCURVE",
+"969 2287 OFFCURVE",
+"969 2148 CURVE",
+"969 2009 OFFCURVE",
+"1162 1897 OFFCURVE",
+"1401 1897 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1640 0 OFFCURVE",
+"1834 113 OFFCURVE",
+"1834 252 CURVE",
+"1834 391 OFFCURVE",
+"1640 504 OFFCURVE",
+"1401 504 CURVE",
+"1162 504 OFFCURVE",
+"969 391 OFFCURVE",
+"969 252 CURVE",
+"969 113 OFFCURVE",
+"1162 0 OFFCURVE",
+"1401 0 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"918 1755 OFFCURVE",
+"917 1979 OFFCURVE",
+"796 2049 CURVE",
+"676 2118 OFFCURVE",
+"481 2007 OFFCURVE",
+"362 1800 CURVE",
+"242 1593 OFFCURVE",
+"243 1369 OFFCURVE",
+"364 1299 CURVE",
+"484 1230 OFFCURVE",
+"679 1341 OFFCURVE",
+"798 1548 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"2560 807 OFFCURVE",
+"2559 1031 OFFCURVE",
+"2439 1101 CURVE",
+"2318 1170 OFFCURVE",
+"2124 1059 OFFCURVE",
+"2004 852 CURVE",
+"1885 645 OFFCURVE",
+"1886 421 OFFCURVE",
+"2006 351 CURVE",
+"2126 282 OFFCURVE",
+"2321 393 OFFCURVE",
+"2440 600 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"917 421 OFFCURVE",
+"918 645 OFFCURVE",
+"798 852 CURVE",
+"679 1059 OFFCURVE",
+"484 1170 OFFCURVE",
+"364 1101 CURVE",
+"243 1031 OFFCURVE",
+"243 807 OFFCURVE",
+"362 600 CURVE",
+"482 393 OFFCURVE",
+"676 282 OFFCURVE",
+"797 351 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"2559 1369 OFFCURVE",
+"2560 1593 OFFCURVE",
+"2440 1800 CURVE",
+"2321 2007 OFFCURVE",
+"2127 2118 OFFCURVE",
+"2006 2049 CURVE",
+"1886 1979 OFFCURVE",
+"1885 1755 OFFCURVE",
+"2005 1548 CURVE",
+"2124 1341 OFFCURVE",
+"2319 1230 OFFCURVE",
+"2439 1299 CURVE"
+);
+}
+);
+width = 2803;
+}
+);
+note = w_e_s_t_e_n_d.liga;
+},
+{
 glyphname = a_c_a_l_a.liga;
 lastChange = "2022-02-15 12:06:03 +0000";
 layers = (
