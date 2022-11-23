@@ -14,6 +14,7 @@ const glyphsSets = [
       "westend",
       "rococo",
       "kulupu",
+      "frequency",
       "statemine",
       "substrate",
     ]
